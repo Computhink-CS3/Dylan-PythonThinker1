@@ -1,4 +1,4 @@
-print("Hello from lesson 1")
+#print("Hello from lesson 1")
 
 ######### The below is the code required for task 2a ##########
 # print("1")
@@ -57,7 +57,7 @@ print ("2015")
 # print("2028")
 # print("2029")
 # print("2030")
-print("hello world")
+#print("hello world")
 
 # ############## Below is the code for task 2b ##############
 # print("1")
