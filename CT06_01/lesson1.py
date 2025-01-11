@@ -7,6 +7,19 @@
 # print("2. brush teeeth")
 # print("3. dress up")
 # print("4. go school")
+# print(Hello and how are you?)
+
+# print("What is wrong with this"
+
+# print("Why is this not working?)
+
+# Prnt("Why is this not working?")
+
+
+
+
+
+
 #print("my favourite food is pizza")
 #print("my birthday is on 28 march")
 ######### The below is the code required for task 2a ##########
