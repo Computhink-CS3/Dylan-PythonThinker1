@@ -1,6 +1,6 @@
 print("Hello world")
 print("my favourite food is pizza")
-print("my birthday is ")
+print("my birthday is on 28 march")
 ######### The below is the code required for task 2a ##########
 # print("1")
 # print("2")
