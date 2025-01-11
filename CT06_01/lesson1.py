@@ -7,13 +7,10 @@
 # print("2. brush teeeth")
 # print("3. dress up")
 # print("4. go school")
-# print(Hello and how are you?)
-
-# print("What is wrong with this"
-
-# print("Why is this not working?)
-
-# Prnt("Why is this not working?")
+print("Hello and how are you?")
+print("What is wrong with this")
+print("Why is this not working?")
+Prnt("Why is this not working?")
 
 
 
