@@ -2,7 +2,7 @@
 print("my name is dylan")
 print("i am 10 years old")
 print(" i attend anderson primary school")
-print("if i had $2000 as a reward i would put it all on black")
+print("if i had $2000 as a reward i would put it all on green")
 #print("my favourite food is pizza")
 #print("my birthday is on 28 march")
 ######### The below is the code required for task 2a ##########
