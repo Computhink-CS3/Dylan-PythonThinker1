@@ -2,7 +2,7 @@
 # print("my name is dylan")
 # print("i am 10 years old")
 # print(" i attend anderson primary school")
-# print("if i had $2000 as a reward i would go all in on green and if i win all in on green aga")
+# print("if i had $2000 as a reward i would go all in on green and if i win all in on green again")
 print("1. wake up")
 print("2. brush teeeth")
 print("3. dress up")
