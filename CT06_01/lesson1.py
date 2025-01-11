@@ -1,5 +1,5 @@
 print("Hello world")
-print("my fa")
+print("my favourite food is pizza")
 ######### The below is the code required for task 2a ##########
 # print("1")
 # print("2")
